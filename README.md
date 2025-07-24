@@ -2,10 +2,10 @@
 
 ---
 
-NAME        : S VIKAASNI
-COMPANY     : CodSoft
-ID          : CS25RY74929
-DOMAIN      : Artificial Intelligence
+-NAME        : S VIKAASNI
+-COMPANY     : CodSoft
+-ID          : CS25RY74929
+-DOMAIN      : Artificial Intelligence
 
 ---
 
